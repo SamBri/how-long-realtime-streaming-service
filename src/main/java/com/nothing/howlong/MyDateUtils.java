@@ -1,4 +1,4 @@
-package com.css.howlong;
+package com.nothing.howlong;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

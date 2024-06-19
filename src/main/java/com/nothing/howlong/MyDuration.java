@@ -1,4 +1,4 @@
-package com.css.howlong;
+package com.nothing.howlong;
 
 public enum MyDuration {
 	
